@@ -93,3 +93,4 @@ omni_range = 40.0
 [node name="ThumbnailMesh" type="MeshInstance3D" parent="."]
 transform = Transform3D(50, 0, 0, 0, 50, 0, 0, 0, 50, 0, 0, 0)
 mesh = SubResource("BoxMesh_bv1le")
+metadata/_edit_lock_ = true
